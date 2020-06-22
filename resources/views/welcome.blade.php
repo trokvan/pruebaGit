@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PRUEBA GIT
+                    PRUEBA GIT NUEVO DE LA RAMA2
                 </div>
 
                 <div class="links">
