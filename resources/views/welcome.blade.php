@@ -16,7 +16,7 @@
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
-                height: 300vh;
+                height: 100vh;
                 margin: 0;
             }
 
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    PRUEBA GIT
                 </div>
 
                 <div class="links">
